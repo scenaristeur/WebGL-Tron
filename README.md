@@ -13,6 +13,13 @@
 
 --
 
+
+scenaristeur add :
+
+nodejs socket.io server to enable multusers : https://github.com/scenaristeur/smag0UiServer
+
+
+
 ### Want to help?
 
 * [![Join the chat at https://gitter.im/dpren/WebGL-Tron](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dpren/WebGL-Tron?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

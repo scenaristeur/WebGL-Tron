@@ -1,0 +1,23 @@
+{
+  "name": "webgl-tron",
+  "version": "1.0.0",
+  "description": "cd WebGL-Tron\r     ./webserver.sh\r     open http://localhost:1337",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scenaristeur/WebGL-Tron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scenaristeur/WebGL-Tron/issues"
+  },
+  "homepage": "https://github.com/scenaristeur/WebGL-Tron#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
